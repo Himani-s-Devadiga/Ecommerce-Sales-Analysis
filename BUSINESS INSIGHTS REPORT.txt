@@ -1,0 +1,35 @@
+ BUSINESS INSIGHTS REPORT
+E-Commerce Sales Analysis
+
+1. Executive Summary
+This project analyzes 12 months of e-commerce sales data to understand revenue patterns, customer behavior, product performance, and regional contribution. The goal is to identify key business trends and provide actionable insights to improve sales and customer satisfaction.
+
+2. Key Business Insights
+?? Insight 1: Top Performing Category
+The analysis shows that the highest revenue-generating product category is the leading driver of overall sales performance. This indicates strong customer preference for specific product types.
+?? Recommendation: Focus marketing campaigns and inventory planning on top-performing categories to maximize revenue.
+
+?? Insight 2: Monthly Sales Trend
+Sales show a clear fluctuation across months, with certain months recording significantly higher revenue. This indicates seasonal demand patterns in customer purchasing behavior.
+?? Recommendation: Launch seasonal offers and discounts during peak months to further boost revenue.
+
+?? Insight 3: Regional Performance
+Certain states contribute significantly more to total sales compared to others. High-performing regions dominate revenue generation.
+?? Recommendation: Strengthen logistics, delivery speed, and targeted ads in low-performing regions to improve coverage.
+
+?? Insight 4: Average Order Value
+The average order value remains relatively stable, indicating consistent customer spending behavior across time.
+?? Recommendation: Introduce bundling offers and upselling strategies to increase order value.
+
+?? Insight 5: Customer Review Pattern
+Most customer reviews fall in the positive range, showing overall satisfaction with products and services.
+?? Recommendation: Maintain service quality and address negative feedback areas to improve customer retention.
+
+3. Final Conclusion
+The analysis highlights strong category performance, seasonal sales trends, and regional differences in revenue contribution. By focusing on high-performing products and improving weaker regions, the company can significantly increase overall profitability.
+
+4. Tools Used
+* Python (Pandas, Matplotlib, Seaborn) 
+* Power BI 
+* Excel
+
